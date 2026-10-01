@@ -1,0 +1,10 @@
+# name|color|description   (added only to the 'billing' repo, on top of labels.txt)
+type:invoice|1d76db|Invoice request
+type:payment|0e8a16|Payment received
+type:credit-note|5319e7|Credit note request
+type:dispute|d93f0b|Billing dispute
+billing:draft|ededed|Invoice being prepared
+billing:issued|0052cc|Invoice issued and awaiting payment
+billing:overdue|b60205|Past the due date and not fully paid
+billing:disputed|e99695|Client disputes the invoice
+billing:paid|0e8a16|Fully paid

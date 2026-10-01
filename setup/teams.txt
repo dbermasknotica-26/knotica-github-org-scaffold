@@ -1,0 +1,9 @@
+# slug|description
+board|Directors
+management|Department heads
+delivery|Consultants, engineers, QA
+sales|Sales and presales
+marketing|Marketing staff
+admin-hr|Admin and HR
+finance|Billing, invoicing and collections
+all-staff|Everyone

@@ -1,0 +1,23 @@
+# name|color|description
+type:request|1d76db|Request
+type:change|5319e7|Change request
+type:bug|d73a4a|Defect
+type:incident|b60205|Incident
+type:spec|0e8a16|Specification
+type:doc|c5def5|Documentation
+status:triage|fbca04|Awaiting triage
+status:in-progress|0052cc|In progress
+status:blocked|e99695|Blocked
+status:in-review|d4c5f9|In review
+status:approved|0e8a16|Approved
+status:done|ededed|Done
+priority:p1-critical|b60205|Critical
+priority:p2-high|d93f0b|High
+priority:p3-normal|fbca04|Normal
+priority:p4-low|c2e0c6|Low
+sla:4h|ededed|Respond within 4 hours
+sla:1d|ededed|Respond within 1 day
+sla:5d|ededed|Respond within 5 days
+sla:breached|b60205|SLA target passed while in triage
+leave|bfdadc|Leave request
+handover|bfdadc|Handover report

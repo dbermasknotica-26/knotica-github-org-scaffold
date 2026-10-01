@@ -1,0 +1,24 @@
+# repo,team,permission  (pull|triage|push|maintain|admin). Org owners already have admin.
+.github,management,push
+.github,all-staff,pull
+handbook,management,push
+handbook,board,pull
+handbook,all-staff,pull
+internal-ops,management,push
+internal-ops,admin-hr,maintain
+internal-ops,all-staff,triage
+board-governance,board,push
+sales,management,push
+sales,sales,push
+marketing,management,push
+marketing,marketing,push
+service-intake,management,push
+service-intake,delivery,push
+service-intake,sales,push
+account-management,management,push
+client-template,management,push
+client-template,delivery,pull
+billing,finance,maintain
+billing,management,push
+billing,delivery,triage
+client-template,finance,pull
