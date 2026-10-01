@@ -1,0 +1,4 @@
+# Review ownership. Teams need write access to the repo to be valid.
+* @ORG_PLACEHOLDER/sales
+/pricing/ @ORG_PLACEHOLDER/management
+/pipeline/ @ORG_PLACEHOLDER/sales
