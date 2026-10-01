@@ -1,0 +1,43 @@
+version: 1
+root: KNOTICA ERP SYSTEM/CONFIGS/agents
+agents:
+  - id: account-management
+    file: account-management.agent.md
+    repository: account-management
+  - id: finance-accounting
+    file: finance-accounting.agent.md
+    repository: finance-accounting
+  - id: handbook
+    file: handbook.agent.md
+    repository: handbook
+  - id: hrm
+    file: hrm.agent.md
+    repository: hrm
+  - id: board-governance
+    file: board-governance.agent.md
+    repository: board-governance
+  - id: knotica-doc-templates
+    file: document-templates.agent.md
+    repository: knotica-doc-templates
+  - id: marketing
+    file: marketing.agent.md
+    repository: marketing
+  - id: sales
+    file: sales.agent.md
+    repository: sales
+  - id: service-intake
+    file: service-intake.agent.md
+    repository: service-intake
+policy:
+  default_mode: draft
+  require_approval_for:
+    - external_communication
+    - financial_change
+    - personnel_record
+    - governance_decision
+    - permission_change
+    - publication
+    - deletion
+  shared_sources:
+    - KNOTICA ERP SYSTEM/CONFIGS/docs/MODULES_AND_WORKFLOWS.md
+    - KNOTICA ERP SYSTEM/CONFIGS/setup/source-folders.txt
