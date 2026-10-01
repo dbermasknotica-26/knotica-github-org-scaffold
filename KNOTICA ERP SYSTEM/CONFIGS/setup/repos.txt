@@ -1,0 +1,11 @@
+# name|visibility|template|description
+.github|public|no|Org-wide defaults, templates and reusable workflows
+handbook|private|no|Company processes, policies, SOPs and template library
+hrm|private|no|HRM handling: leave, handovers, incidents, communications
+board-governance|private|no|Board resolutions, approvals, minutes (restricted)
+sales|private|no|Pipeline, proposals, quotations and pricing
+marketing|private|no|Campaigns, content calendar, brand and case studies
+service-intake|private|no|Front door for consulting inquiries and service requests
+finance-accounting|private|no|Invoices, payments, credit notes and collections (finance-only)
+account-management|private|no|Staff-only client account notes (never shared with clients)
+knotica-doc-templates|private|yes|TEMPLATE: standard structure for every client workspace

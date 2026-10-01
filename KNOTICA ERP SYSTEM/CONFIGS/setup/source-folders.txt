@@ -1,0 +1,11 @@
+# repository-slug|source-folder-under-KNOTICA ERP SYSTEM
+.github|.github
+handbook|HANDBOOK
+hrm|HRM
+board-governance|KNOTICA BOARD-GOVERNANCE
+sales|SALES
+marketing|MARKETING
+service-intake|SERVICE-INTAKE
+finance-accounting|FINANCE & ACCOUNTING
+account-management|ACCOUNT MANAGEMENT
+knotica-doc-templates|KNOTICA DOC TEMPLATES
